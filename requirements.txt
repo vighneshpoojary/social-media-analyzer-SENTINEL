@@ -1,0 +1,16 @@
+telethon
+twikit
+pika
+clickhouse-driver
+python-dotenv
+transformers
+torch
+sentence-transformers
+scikit-learn
+bertopic
+spacy
+neo4j
+networkx
+fastapi
+uvicorn
+httpx
